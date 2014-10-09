@@ -1,0 +1,16 @@
+{
+  "name": "opatesting",
+  "version": "0.0.0",
+  "description": "",
+  "main": "applicationUnderTest/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-qunit": "~0.5.2",
+    "phantomjs": "~1.9.10"
+  }
+}
