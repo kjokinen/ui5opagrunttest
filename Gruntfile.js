@@ -7,6 +7,7 @@ module.exports = function(grunt) {
 	qunit: {
 	options: {
 		timeout: 15000,
+    '--ssl-protocol': 'tlsv1'
 	  },
       urls: './OpaMatchers.html'
     },
