@@ -1,13 +1,13 @@
 {
   "name": "opatesting",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "applicationUnderTest/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "",
+  "author": "Kimmo Jokinen",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-qunit": "~0.5.2",
